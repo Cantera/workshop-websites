@@ -24,6 +24,9 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
+          <a href="{{ site.baseurl }}/" class="btn">Home</a>
+          <a href="{{ site.baseurl }}/participants" class="btn">Participants</a>
+
           {% if site.show_downloads %}
             <section id="downloads">
               <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
@@ -32,20 +35,6 @@
           {% endif %}
         </header>
     </div>
-
-    <nav class="navbar navbar-default" role="navigation">
-    <div class="container-fluid">
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav">
-
-                <li><a href="{{ site.baseurl }}/">Home</a></li>
-                <li><a href="{{ site.baseurl }}/participants">Participants</a></li>
-
-            </ul>
-        </div><!--/.nav-collapse -->
-    </div> <!-- /container -->
-    </nav>
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
