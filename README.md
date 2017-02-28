@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Cantera Workshop & Forum
 
-You can use the [editor on GitHub](https://github.com/Cantera/ncm-2017-workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Sunday, April 23, 4:00 – 6:00 PM
+## College Park Marriott Hotel & Conference Center
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cantera is an open-source suite of object-oriented software tools for problems involving kinetics,
+thermodynamics, and/or transport. Among other things, it can be used to:
 
-### Markdown
+* Evaluate thermodynamic and transport properties of mixtures
+* Compute chemical equilibrium
+* Evaluate species chemical production rates
+* Conduct kinetics simulations with large reaction mechanisms
+* Simulate one-dimensional flames
+* Conduct reaction path analysis
+* Create process simulations using networks of stirred reactors
+* Model non-ideal fluids
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This Workshop & Forum will cover basic usage of Cantera, getting started with Cantera development,
+and a discussion panel regarding future directions for Cantera. The Workshop will be hosted by the
+lead developers of Cantera.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Cantera/ncm-2017-workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Everyone is welcome, and we especially encourage new users to attend! Please email
+[bryan.weber@uconn.edu](mailto:bryan.weber@uconn.edu) for further information or
+if you plan to attend!
