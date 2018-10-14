@@ -1,7 +1,8 @@
 # Cantera Workshop & Forum
 
-## Sunday, April 23, 4:00 – 6:00 PM
-## College Park Marriott Hotel & Conference Center
+## Sunday, March 24
+
+## Pasadena Convention Center
 
 Cantera is an open-source suite of object-oriented software tools for problems involving kinetics,
 thermodynamics, and/or transport. Among other things, it can be used to:
@@ -15,10 +16,8 @@ thermodynamics, and/or transport. Among other things, it can be used to:
 * Create process simulations using networks of stirred reactors
 * Model non-ideal fluids
 
-This Workshop & Forum will cover basic usage of Cantera, getting started with Cantera development,
-and a discussion panel regarding future directions for Cantera. The Workshop will be hosted by the
-lead developers of Cantera.
+This Workshop & Forum will cover basic and advanced usage of Cantera and getting started
+with Cantera development. The Workshop will be hosted by the lead developers of Cantera.
 
-Everyone is welcome, and we especially encourage new users to attend! Please email
-[bryan.weber@uconn.edu](mailto:bryan.weber@uconn.edu) for further information or
-if you plan to attend!
+Everyone is welcome, and we especially encourage new users to attend!
+Registration will be conducted through the Combustion Institute. More details to follow.

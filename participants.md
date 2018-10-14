@@ -8,5 +8,5 @@ The meeting will be hosted by
 
 ## Attending
 
-Everyone is welcome to attend the workshop. Please email [bryan.weber@uconn.edu](mailto:bryan.weber@uconn.edu) with
-questions or if you are planning to attend.
+Everyone is welcome to attend the workshop. Registration will be conducted through the Combustion Institute.
+More details as the date gets closer.
