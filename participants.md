@@ -1,4 +1,7 @@
-## Hosts
+---
+title: Participants
+---
+# Hosts
 
 The meeting will be hosted by
 
