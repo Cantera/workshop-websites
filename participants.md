@@ -5,9 +5,9 @@ title: Participants
 
 The meeting will be hosted by
 
-* [Ray Speth](/bios#raymond-speth) (MIT)
-* [Steven DeCaluwe](/bios#steven-decaluwe) (Colorado School of Mines)
-* [Bryan Weber](/bios#bryan-weber) (University of Connecticut)
+* [Ray Speth](bios#raymond-speth) (MIT)
+* [Steven DeCaluwe](bios#steven-decaluwe) (Colorado School of Mines)
+* [Bryan Weber](bios#bryan-weber) (University of Connecticut)
 
 ## Attending
 
