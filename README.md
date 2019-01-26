@@ -1,6 +1,6 @@
 ---
 title: Cantera Workshop at NCM 2019
-permalink: /index.html
+permalink: /index
 ---
 
 # Cantera Workshop & Forum
