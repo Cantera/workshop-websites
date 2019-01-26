@@ -2,3 +2,5 @@ title: Cantera Workshop and Forum at the 2019 National Combustion Meeting
 description: Learn about how to use and develop Cantera
 
 theme: jekyll-theme-slate
+kramdown:
+  auto_ids: true
