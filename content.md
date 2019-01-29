@@ -31,6 +31,7 @@ The topics for the afternoon session are still being determined. If you have
 suggestions for topics, please email
 [workshop@cantera.org](mailto:workshop@cantera.org). Example topics may include:
 
+- An introduction to the [Shock and Detonation Toolbox](http://shepherd.caltech.edu/EDL/PublicResources/sdt/)
 - Varying the volume of a `Reactor`
 - Convergence in the 1-D solver
 - Varying properties in a `Reactor` as a function of time
