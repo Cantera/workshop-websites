@@ -1,7 +1,7 @@
 ---
 title: Participants
 ---
-# Hosts
+## Hosts
 
 The meeting will be hosted by
 
@@ -11,7 +11,6 @@ The meeting will be hosted by
 
 ## Attending
 
-Everyone is welcome to attend the workshop. Registration will be conducted through the Combustion Institute.
-When you register for the conference, you will be given the option to register for the workshop as well.
-There is a $45 fee to register for the workshop. This is to help offset the cost of travel and refreshments for the hosts and participants.
-Any leftover funds will be used to support the development of Cantera and our community.
+The workshop will be conducted virtually and everyone is welcome to attend. Registration will be conducted through Google Forms. You do not need to register for the conference to register for the Cantera Workshop.
+
+[Register Now!](https://forms.gle/H5Fip7sHfQeo4vZX7)

@@ -2,18 +2,11 @@
 title: Schedule and Topics
 ---
 
-# Schedule
+## Schedule
 
-The workshop will run all day on Sunday, March 24, with a break for lunch. In
-the morning, the topics will focus on an introduction to Cantera and conducting
-canonical combustion simulations. In the afternoon, we will move on to more
-advanced topics, such as reactors with heat transfer or work being done on them,
-discussion of convergence in 1-D simulations, and contributing to Cantera.
+The workshop will run all day on Sunday, March 24, with a break for lunch. In the morning, the topics will focus on an introduction to Cantera and conducting canonical combustion simulations. In the afternoon, we will move on to more advanced topics, such as reactors with heat transfer or work being done on them, discussion of convergence in 1-D simulations, and contributing to Cantera.
 
-Attendees are welcome to come to the morning session, the afternoon session, or
-both. The registration fee covers the entire day's worth of material. Light
-refreshments will be provided during the coffee breaks. Lunch will not be
-provided, but there are several places to eat near the conference venue.
+Attendees are welcome to come to the morning session, the afternoon session, or both. The registration fee covers the entire day's worth of material. Light refreshments will be provided during the coffee breaks. Lunch will not be provided, but there are several places to eat near the conference venue.
 
 Time              | Activity
 ------------------|--------------------
@@ -25,11 +18,11 @@ Time              | Activity
 3:15 PM–3:30 PM   | Coffee Break
 3:30 PM–5:00 PM   | Afternoon Session 2
 
-# Topics
+## Topics
 
-## Morning Session - Canonical Simulations with Cantera
+### Morning Session - Canonical Simulations with Cantera
 
-### 8:30 AM–12:00 PM
+#### 8:30 AM–12:00 PM
 
 - Introduction
 - Installing Cantera
@@ -39,13 +32,11 @@ Time              | Activity
 - Ignition delay calculations
 - Flame speed calculations
 
-## Afternoon Session - Advanced Applications of Cantera
+### Afternoon Session - Advanced Applications of Cantera
 
-### 1:15 PM–5:00 PM
+#### 1:15 PM–5:00 PM
 
-The topics for the afternoon session are still being determined. If you have
-suggestions for topics, please email
-[workshop@cantera.org](mailto:workshop@cantera.org). Example topics may include:
+The topics for the afternoon session are still being determined. If you have suggestions for topics, please email [workshop@cantera.org](mailto:workshop@cantera.org). Example topics may include:
 
 - An introduction to the [Shock and Detonation Toolbox](http://shepherd.caltech.edu/EDL/PublicResources/sdt/)
 - Varying the volume of a `Reactor`
