@@ -10,17 +10,24 @@ Attendees are welcome to come to the morning session, the afternoon session, or 
 
 ## Topics
 
-### Morning Session - Getting Started with Cantera
+### Morning Session - Getting Started with Cantera (10am Eastern)
 
 - Introduction
 - Cantera Input Files
-- Equilibrium Calculations
+- Equilibrium Calculations (eg. adiabatic flame temperatures)
 
 ### Afternoon Sessions
 
-The topics for the afternoon sessions are still being determined. If you have suggestions for topics, please include them on the [registration form](https://forms.gle/H5Fip7sHfQeo4vZX7). Possible topics include:
+There will be two afternoon sessions, each with three parallel sessions. If you have suggestions for other topics, please include them on the [registration form](https://forms.gle/H5Fip7sHfQeo4vZX7).
 
-- Using Cantera: Ignition Delays, Flame Speeds, and Other Applications
-- Bring Your Own Model: Using Cantera With Your Own Equations
+Afternoon Session 1 (2pm Eastern)
+
+- Using Cantera: Ignition Delays, Flame Speeds, 
+- Using Cantera With Your Own Equations (Build your own Partially Stirred Reactor)
 - Getting Started With Contributing to Cantera
-- Ask Us Anything: Open Office Hours
+
+Afternoon Session 2 (3pm Eastern)
+- Using Cantera: Partially Stirred Reactors, Plug Flow reactors, heterogeneous catalysis
+- Electrochemistry
+- Getting Started With Contributing to Cantera
+
