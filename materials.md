@@ -2,7 +2,7 @@
 title: Workshop Materials
 ---
 
-The materials that will be covered in the workshop are available in the form of Jupyter Notebooks on GitHub: <https://github.com/cantera/workshop-materials>
+The materials that will be covered in the workshop are available in the form of Jupyter Notebooks on GitHub: <https://github.com/cantera/workshop-materials/blob/main/ncm-2021>
 
 ## Installing Cantera
 

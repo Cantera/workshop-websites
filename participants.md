@@ -11,6 +11,9 @@ The meeting will be hosted by
 
 ## Attending
 
-The workshop will be conducted virtually and everyone is welcome to attend. Registration will be conducted through Google Forms. You do not need to register for the conference to register for the Cantera Workshop.
+The workshop will be conducted virtually and everyone is welcome to attend. We will be organized in Gather.Town. You can use the link below to access the Gather.Town space.
 
-[Register Now!](https://forms.gle/H5Fip7sHfQeo4vZX7)
+* Gather.Town Link: <https://gather.town/i/0dxTqgpz>
+* Password in your email
+
+Gather.Town supports Chrome and Firefox. They do not support Safari or mobile devices. Please feel free to log in to try the interface before the workshop starts, but only 25 people can be concurrently logged in until the event starts.
