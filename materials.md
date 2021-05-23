@@ -6,4 +6,4 @@ The materials that will be covered in the workshop are available in the form of 
 
 ## Installing Cantera
 
-All attendees should install Cantera on their computer prior to coming to the workshop. Instruction can be found on the materials repository page: <https://github.com/cantera/ncm-2019-materials#installation-instructions>
+All attendees should install Cantera on their computer prior to coming to the workshop. Instruction can be found on the materials repository page: <https://github.com/Cantera/workshop-materials#installation-instructions>
