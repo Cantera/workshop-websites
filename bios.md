@@ -4,20 +4,14 @@ title: Biographies of Presenters
 
 ## Biographies of Presenters
 
-### Raymond Speth
+### Kyle Niemeyer
 
-#### Associate Director, Laboratory for Aviation and the Environment, MIT
+#### Associate Professor, Mechanical Engineering, Oregon State University
 
-My research interests are in the development of sustainable energy technologies for both stationary power generation and transportation needs. I have a particular interest in the development of efficient numerical simulation tools which can be used to assess the impacts of energy use and solve problems in these areas. I am the lead developer of Cantera, an open-source chemical kinetics, thermodynamics, and transport package. I am also the author of Ember, a tool for simulating flames and studying flame/flow interactions.
+Dr. Niemeyer is Associate Professor in the School of Mechanical, Industrial, and Manufacturing Engineering at Oregon State University. He leads the [Niemeyer Research Group](https://niemeyer-research-group.github.io), which performs research into numerical modeling of reacting and non-reacting fluid systems, and also into using modern, highly parallel computing systems for tackling challenging problems related to energy and the environment.
 
-### Steven DeCaluwe
+### Richard West
 
-#### Assistant Professor, Mechanical Engineering, Colorado School of Mines
+#### Associate Professor, Chemical Engineering, Northeastern University
 
-Dr. DeCaluwe comes to the Department of Mechanical Engineering at Mines after completing a National Research Council post-doctoral fellowship at the National Institute of Standards and Technology (NIST). Dr. DeCaluwe’s work at NIST utilized neutron reflectometry experiments to study solid electrolyte interphase formation in Lithium-ion batteries and water uptake in thin-film polymers for PEM fuel cells. His work at CSM focuses on interfacial studies of electrochemical energy systems, in particular the use of in situ measurements to validate and assist in scale-up of atomistic models. Dr. DeCaluwe is one of the lead developers of Cantera.
-
-### Bryan Weber
-
-#### Assistant Professor in Residence, Mechanical Engineering, University of Connecticut
-
-Dr. Weber’s research interests are on the combustion of alternative biofuels including alcohols and biodiesel, design of novel experimental methods for combustion analysis, and computational analysis of reaction mechanisms for combustion. Dr. Weber is one of the lead developers of Cantera.
+Dr. West is Associate Professor and Associate Chair for Graduate Studies in the Department of Chemical Engineering at Northeastern University. He leads the [Computational Modeling in Chemical Engineering (CoMoChEng)](https://web.northeastern.edu/comocheng/) group, which performs research into the development of detailed microkinetic models for complex reacting systems, like combustion, heterogeneous catalysis, and bio-fuel processing. 

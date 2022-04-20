@@ -1,11 +1,11 @@
 ---
-title: Cantera Workshop at NCM 2021
+title: Cantera Workshop at International Symposium on Combustion 2022
 permalink: /index
 ---
 
-## Sunday, May 23
+## Friday 22 July to Saturday 23 July 2022
 
-## Virtual Online
+## In-person workshop
 
 Cantera is an open-source suite of object-oriented software tools for problems involving kinetics, thermodynamics, and/or transport. Among other things, it can be used to:
 
@@ -18,6 +18,10 @@ Cantera is an open-source suite of object-oriented software tools for problems i
 * Create process simulations using networks of stirred reactors
 * Model non-ideal fluids
 
-This Workshop will cover basic and advanced usage of Cantera and getting started with Cantera development. The Workshop will be hosted by the lead developers of Cantera.
+This 1.5-day workshop will bring together new and advanced users of Cantera, and introduce all to getting involved with with Cantera development. 
 
-Everyone is welcome, and we especially encourage new users to attend! Registration will be conducted through [Google Forms](https://forms.gle/H5Fip7sHfQeo4vZX7). There is no fee to register for or attend the workshop!
+The workshop will begin on Friday afternoon with a session on advanced use of Cantera, and then Saturday morning will introduce basic use of Cantera. All workshop attendees are invited to join a code sprint and poster session on Saturday afternoon. Attendees can choose to attend the basic or advanced sessions, or both.
+
+Everyone is welcome, and we especially encourage new users to attend! Registration will be conducted through [EventBrite]().
+
+All participants in the workshop are expected to ready and comply with our [Code of Conduct](code-of-conduct.md), both during the workshop and in any communications associated with it before, during, or after the event itself.
