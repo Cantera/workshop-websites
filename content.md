@@ -4,7 +4,7 @@ title: Schedule and Topics
 
 ## Schedule
 
-The workshop will run 1 PM to 5 PM on Friday 22 July and 9 AM to 4 PM on Saturday 23 July 2022, with a break for lunch. The Friday afternoon session will cover topics for more advanced users. On Saturday morning, the morning session will introduce Cantera to newer users; after a lunch break, we will hold code sprints, followed by a poster session.
+The workshop will run 1 PM to 5 PM on Friday 22 July and 9 AM to 4 PM on Saturday 23 July 2022, with a break for lunch. The Friday afternoon session will cover topics for more advanced users. On Saturday, the morning session will introduce Cantera to newer users; after a lunch break, we will hold code sprints, followed by a poster session.
 
 Attendees are welcome to come to the morning session, the afternoon session, or both.
 
