@@ -10,12 +10,12 @@ Attendees are welcome to come to the morning session, the afternoon session, or 
 
 | Start Time (PDT) | End Time | Session      |
 |------------------|----------|--------------|
-| Friday           |          |              |
+| **Friday**                                 |
 | 13:00 | 14:45    | Advanced sessions       |
 | 14:45 | 15:15    | *Break*                 |
 | 15:15 | 16:00    | Advanced sessions       |
 |------------------|----------|--------------|
-| Saturday         |          |              |
+| **Saturday**                               |
 |------------------|----------|--------------|
 | 9:00  | 10:15 | Introduction & Equilibrium |
 | 10:15 | 10:30 | Break                      |
