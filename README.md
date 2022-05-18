@@ -16,7 +16,7 @@ Cantera is an open-source suite of object-oriented software tools for problems i
 * Create process simulations using networks of stirred reactors
 * Model non-ideal fluids
 
-This 1.5-day workshop will bring together new and advanced users of Cantera, and introduce all to getting involved with with Cantera development. 
+This 1.5-day workshop will bring together new and advanced users of Cantera, and introduce all to getting involved with Cantera development. 
 
 The workshop will begin on Friday afternoon with a session on advanced use of Cantera, and then Saturday morning will introduce basic use of Cantera. All workshop attendees are invited to join a code sprint and poster session on Saturday afternoon. Attendees can choose to attend the basic or advanced sessions, or both.
 
