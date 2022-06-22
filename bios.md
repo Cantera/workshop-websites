@@ -23,6 +23,11 @@ Dr. West is Associate Professor and Associate Chair for Graduate Studies in the 
 China is a Research Assistant at the [Laboratory for Aviation and the Environment (LAE)](https://lae.mit.edu/) at MIT. She received an Aerospace Engineering B.S. from UCLA in 2020. Before joining LAE, she worked as an undergraduate researcher in the Laser Diagnostics and Gas Dynamics Lab at UCLA studying hybrid rocket combustion using spectroscopic techniques.
 Her research focus is on improving Cantera to help create the first comprehensive analysis of the atmospheric impacts of current and future space launches.
 
+### Gandhali Kogekar
+
+#### Postdoctoral research associate, Brown University
+Gandhali is a postdoctoral research associate in [Goldsmith group](https://www.brown.edu/Departments/Engineering/Labs/Goldsmith/people-page.html) at Brown University. She received her Ph.D. in Mechanical engineering from the Colorado School of Mines (CSM). Prior to joining CSM, she completed her master's degree from Purdue University and was working at Reaction design (ANSYS Inc). Her research is focused on developing robust and computationally efficient models for non-ideal combustion and heterogeneous catalysis in chemical reactors.
+
 ### Patrick Meagher
 
 #### Ph.D. candidate, Mechanical Engineering, University of Connecticut
