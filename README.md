@@ -31,7 +31,7 @@ All participants will have the option of presenting a poster; though this is not
 
 ### Venue
 
-The workshop will be held at [Northeastern University — Vancouver](https://g.page/NortheasternVAN?share), 410 West Georgia Street #1400, Vancouver, BC V6B 1Z3, Canada.
+The workshop will be held in downtown Vancouver, just 1km from the Combustion Symposium's Convention Center, at [Northeastern University — Vancouver](https://g.page/NortheasternVAN?share), 410 West Georgia Street #1400, Vancouver, BC V6B 1Z3, Canada.
 
 ### Code of Conduct
 
