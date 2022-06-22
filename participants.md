@@ -7,6 +7,7 @@ The meeting will be hosted by
 
 * [Kyle Niemeyer](./bios#kyle-niemeyer) (Oregon State)
 * [Richard West](./bios#richard-west) (Northeastern)
+* China Hagström (MIT)
 
 ## Attending
 
