@@ -22,7 +22,8 @@ The workshop will begin on Friday afternoon with a session on advanced use of Ca
 
 ### Registration
 
-Everyone is welcome, and we especially encourage new users to attend! Please registration using [EventBrite](https://www.eventbrite.com/e/cantera-workshop-at-the-39th-international-symposium-on-combustion-tickets-278311094977).
+Everyone is welcome, and we especially encourage new users to attend! 
+**Please [register here](https://www.eventbrite.com/e/cantera-workshop-at-the-39th-international-symposium-on-combustion-tickets-278311094977) EventBrite.**
 
 When registering, the "base" ticket gets you into the Saturday afternoon code sprint and poster sessions. Then, you can choose between Friday afternoon or Saturday morning "add on" options, or both.
 
