@@ -31,7 +31,7 @@ Attendees are welcome to come to the morning session, the afternoon session, or 
 
 ### Friday Afternoon Sessions
 
-There will be two advanced afternoon sessions on Friday, each with three parallel sessions. If you have suggestions for other topics, please include them on the registration form.
+There will be two advanced afternoon sessions on Friday, each with three parallel sessions. If you have suggestions for other topics, please include them on the registration form or contact the organizers.
 
 Afternoon Session 1 (1 PM PDT):
 
