@@ -3,7 +3,7 @@ title: Cantera Workshop at International Symposium on Combustion 2022
 permalink: /index
 ---
 
-## Friday 22 July to Saturday 23 July 2022
+## Friday 22 July and Saturday 23 July 2022
 
 Cantera is an open-source suite of object-oriented software tools for problems involving kinetics, thermodynamics, and/or transport. Among other things, it can be used to:
 
@@ -16,13 +16,18 @@ Cantera is an open-source suite of object-oriented software tools for problems i
 * Create process simulations using networks of stirred reactors
 * Model non-ideal fluids
 
-This 1.5-day workshop will bring together new and advanced users of Cantera, and introduce all to getting involved with Cantera development. 
+This 1.5-day workshop will bring together new and advanced users of Cantera, and introduce all to getting involved with Cantera development.
 
-The workshop will begin on Friday afternoon with a session on advanced use of Cantera, and then Saturday morning will introduce basic use of Cantera. All workshop attendees are invited to join a code sprint and poster session on Saturday afternoon. Attendees can choose to attend the basic or advanced sessions, or both.
+The workshop will begin on Friday afternoon with a session on advanced use of Cantera, and then Saturday morning will introduce basic use of Cantera.
+All workshop attendees are invited to join a code sprint and poster session on Saturday afternoon.
+See more detail on the [Schedule page](content.md).
+Attendees can choose to attend the basic or advanced sessions, or both.
 
 ### Registration
 
-Everyone is welcome, and we especially encourage new users to attend! Please registration using [EventBrite](https://www.eventbrite.com/e/cantera-workshop-at-the-39th-international-symposium-on-combustion-tickets-278311094977).
+Everyone is welcome, and we especially encourage new users to attend! 
+
+**[Please register here via EventBrite.](https://www.eventbrite.com/e/cantera-workshop-at-the-39th-international-symposium-on-combustion-tickets-278311094977)**
 
 When registering, the "base" ticket gets you into the Saturday afternoon code sprint and poster sessions. Then, you can choose between Friday afternoon or Saturday morning "add on" options, or both.
 
@@ -30,7 +35,7 @@ All participants will have the option of presenting a poster; though this is not
 
 ### Venue
 
-The workshop will be held at [Northeastern University — Vancouver](https://g.page/NortheasternVAN?share), 410 West Georgia Street #1400, Vancouver, BC V6B 1Z3, Canada.
+The workshop will be held in downtown Vancouver, just 1km from the Combustion Symposium's Convention Center, at [Northeastern University — Vancouver](https://g.page/NortheasternVAN?share), 410 West Georgia Street #1400, Vancouver, BC V6B 1Z3, Canada.
 
 ### Code of Conduct
 

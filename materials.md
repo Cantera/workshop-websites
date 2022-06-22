@@ -2,7 +2,7 @@
 title: Workshop Materials
 ---
 
-The materials that will be covered in the workshop are available in the form of Jupyter Notebooks on GitHub: <https://github.com/cantera/workshop-materials/blob/main/isoc-2022>
+The materials that will be covered in the workshop will be available in the form of Jupyter Notebooks on GitHub: <https://github.com/Cantera/symposium-2022-materials>
 
 ## Installing Cantera
 
