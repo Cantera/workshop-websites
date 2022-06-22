@@ -24,6 +24,11 @@ China is a Research Assistant at the [Laboratory for Aviation and the Environmen
 Her research focus is on improving Cantera to help create the first comprehensive analysis of the atmospheric impacts of current and future space launches
 In her free time China enjoys photography, baking, and figure skating.
 
+### Gandhali Kogekar
+
+#### Postdoctoral research associate, Brown University
+Gandhali is a postdoctoral research associate in [Goldsmith group](https://www.brown.edu/Departments/Engineering/Labs/Goldsmith/people-page.html) at Brown University. She received her Ph.D. in Mechanical engineering from the Colorado School of Mines (CSM). Prior to joining CSM, she completed her master's degree from Purdue University and was working at Reaction design (ANSYS Inc). Her research is focused on developing robust and computationally efficient models for non-ideal combustion and heterogeneous catalysis in chemical reactors.
+
 ### Patrick Meagher
 
 #### Ph.D. candidate, Mechanical Engineering, University of Connecticut
