@@ -21,8 +21,7 @@ Dr. West is Associate Professor and Associate Chair for Graduate Studies in the 
 #### Ph.D. candidate, Aerospace, Aeronautical and Astronautical Engineering, Massachusetts Institute of Technology
 
 China is a Research Assistant at the [Laboratory for Aviation and the Environment (LAE)](https://lae.mit.edu/) at MIT. She received an Aerospace Engineering B.S. from UCLA in 2020. Before joining LAE, she worked as an undergraduate researcher in the Laser Diagnostics and Gas Dynamics Lab at UCLA studying hybrid rocket combustion using spectroscopic techniques.
-Her research focus is on improving Cantera to help create the first comprehensive analysis of the atmospheric impacts of current and future space launches
-In her free time China enjoys photography, baking, and figure skating.
+Her research focus is on improving Cantera to help create the first comprehensive analysis of the atmospheric impacts of current and future space launches.
 
 ### Patrick Meagher
 
