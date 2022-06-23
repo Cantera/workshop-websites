@@ -22,6 +22,7 @@ The workshop will begin on Friday afternoon with a session on advanced use of Ca
 All workshop attendees are invited to join a code sprint and poster session on Saturday afternoon.
 See more detail on the [Schedule page](content.md).
 Attendees can choose to attend the basic or advanced sessions, or both.
+You may also register for the poster session on Saturday afternoon without either of the tutorial sessions, if you wish to engage with the Cantera community but do not anticipate using it yourself (eg. lab directors, supervisors).
 
 ### Registration
 
