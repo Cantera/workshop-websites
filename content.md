@@ -13,7 +13,7 @@ Attendees are welcome to come to the morning session, the afternoon session, or 
 | **Friday**                                 |
 | 13:00 | 14:45    | Advanced sessions       |
 | 14:45 | 15:15    | *Break*                 |
-| 15:15 | 16:00    | Advanced sessions       |
+| 15:15 | 17:00    | Advanced sessions       |
 |------------------|----------|--------------|
 | **Saturday**                               |
 |------------------|----------|--------------|
