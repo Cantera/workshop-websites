@@ -16,7 +16,7 @@ permalink: /index
 * Create process simulations using networks of stirred reactors
 * Model non-ideal fluids
 
-This 1.5-day workshop will bring together new and advanced users of Cantera, and introduce all to getting involved with Cantera development.
+This 1.5-day workshop affiliated with the [39th International Symposium on Combustion](http://www.combustionsymposia.org/2022/) will bring together new and advanced users of Cantera, and introduce all to getting involved with Cantera development.
 
 The workshop will begin on Friday afternoon with a session on advanced use of Cantera, and then Saturday morning will introduce basic use of Cantera.
 All workshop attendees are invited to join a code sprint and poster session on Saturday afternoon.
@@ -36,7 +36,7 @@ All participants will have the option of presenting a poster; though this is not
 
 ### Venue
 
-The workshop will be held in downtown Vancouver, just 1km from the Combustion Symposium's Convention Center, at [Northeastern University — Vancouver](https://g.page/NortheasternVAN?share), 410 West Georgia Street #1400, Vancouver, BC V6B 1Z3, Canada.
+The workshop will be held in downtown Vancouver, just 1km from the [Combustion Symposium](http://www.combustionsymposia.org/2022/)'s Convention Center, at [Northeastern University — Vancouver](https://g.page/NortheasternVAN?share), 410 West Georgia Street #1400, Vancouver, BC V6B 1Z3, Canada.
 
 ### Code of Conduct
 
