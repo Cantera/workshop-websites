@@ -3,6 +3,8 @@ title: Cantera Workshop at International Symposium on Combustion 2022
 permalink: /index
 ---
 
+<center><p style="text-align:center;" align="center"><img src="https://www.cantera.org/assets/img/cantera-logo.png" width="300px" alt="Cantera logo"/></p></center>
+
 ## Friday 22 July and Saturday 23 July 2022
 
 [Cantera](https://www.cantera.org/) is an open-source suite of object-oriented software tools for problems involving kinetics, thermodynamics, and/or transport. Among other things, it can be used to:
