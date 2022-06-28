@@ -5,7 +5,7 @@ permalink: /index
 
 ## Friday 22 July and Saturday 23 July 2022
 
-Cantera is an open-source suite of object-oriented software tools for problems involving kinetics, thermodynamics, and/or transport. Among other things, it can be used to:
+[Cantera](https://www.cantera.org/) is an open-source suite of object-oriented software tools for problems involving kinetics, thermodynamics, and/or transport. Among other things, it can be used to:
 
 * Evaluate thermodynamic and transport properties of mixtures
 * Compute chemical equilibrium
