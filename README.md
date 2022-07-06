@@ -30,7 +30,7 @@ You may also register for the poster session on Saturday afternoon without eithe
 
 Everyone is welcome, and we especially encourage new users to attend! 
 
-**[Please register here via EventBrite.](https://www.eventbrite.com/e/cantera-workshop-at-the-39th-international-symposium-on-combustion-tickets-278311094977)**
+**[Please register here via EventBrite.](https://www.eventbrite.com/e/cantera-workshop-at-the-39th-international-symposium-on-combustion-tickets-278311094977)** by Tuesday, July 12.
 
 When registering, the "base" ticket gets you into the Saturday afternoon code sprint and poster sessions. Then, you can choose between Friday afternoon or Saturday morning "add on" options, or both.
 
