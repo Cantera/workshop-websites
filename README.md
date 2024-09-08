@@ -1,11 +1,11 @@
 ---
-title: Cantera Workshop at International Symposium on Combustion 2022
+title: Cantera Workshop at 14th U.S. National Combustion Meeting 2025
 permalink: /index
 ---
 
 <center><p style="text-align:center;" align="center"><img src="https://www.cantera.org/assets/img/cantera-logo.png" width="300px" alt="Cantera logo"/></p></center>
 
-## Friday 22 July and Saturday 23 July 2022
+## Sunday 16 March 2025
 
 [Cantera](https://www.cantera.org/) is an open-source suite of object-oriented software tools for problems involving kinetics, thermodynamics, and/or transport. Among other things, it can be used to:
 
@@ -18,27 +18,28 @@ permalink: /index
 * Create process simulations using networks of stirred reactors
 * Model non-ideal fluids
 
-This 1.5-day workshop affiliated with the [39th International Symposium on Combustion](http://www.combustionsymposia.org/2022/) will bring together new and advanced users of Cantera, and introduce all to getting involved with Cantera development.
+This day-long workshop affiliated with the [14th U.S. National Combustion Meeting](https://www.combustioninstitute.org/ci-event/14th-united-states-national-combustion-meeting/) will bring together new and advanced users of Cantera, and introduce all to getting involved with Cantera development.
 
-The workshop will begin on Friday afternoon with a session on advanced use of Cantera, and then Saturday morning will introduce basic use of Cantera.
-All workshop attendees are invited to join a code sprint and poster session on Saturday afternoon.
+The workshop will run all day on Sunday 16 March, with a meet-up the evening before for those arriving earlier on Saturday.
+The Sunday morning session will be an introduction and tutorial (bring a laptop to follow along and try things out).
+After lunch we invite lightning talks from attendees (show off what you have tried to do with Cantera, or what you would *like* to do with Cantera), and will have a session on how to contribute to Cantera.
+The afternoon will be a presentation of what's new in Cantera, including demonstrations of the latest features and capabilities.
 See more detail on the [Schedule page](content.md).
-Attendees can choose to attend the basic or advanced sessions, or both.
-You may also register for the poster session on Saturday afternoon without either of the tutorial sessions, if you wish to engage with the Cantera community but do not anticipate using it yourself (eg. lab directors, supervisors).
+
 
 ### Registration
 
 Everyone is welcome, and we especially encourage new users to attend! 
 
-**[Please register here via EventBrite.](https://www.eventbrite.com/e/cantera-workshop-at-the-39th-international-symposium-on-combustion-tickets-278311094977)** by Tuesday, July 12.
+Registration is made through the Combustion Institute when registering for the [14th U.S. National Combustion Meeting](https://www.combustioninstitute.org/ci-event/14th-united-states-national-combustion-meeting/).
+Places are limited to 60 participants, so please register early to avoid disappointment.
+Early Registration Opens  October 9, 2024.
 
-When registering, the "base" ticket gets you into the Saturday afternoon code sprint and poster sessions. Then, you can choose between Friday afternoon or Saturday morning "add on" options, or both.
-
-All participants will have the option of presenting a poster; though this is not required, we encourage everyone to present on the work they are doing that either already uses Cantera or might benefit from using Cantera. This will be a great way to network with other users and generate ideas.
+Participants will be invited to present a lightning talk; though this is not required, we encourage everyone to present on the work they are doing that either already uses Cantera or might benefit from using Cantera. This will be a great way to network with other users and generate ideas.
 
 ### Venue
 
-The workshop will be held in downtown Vancouver, just 1km from the [Combustion Symposium](http://www.combustionsymposia.org/2022/)'s Convention Center, at [Northeastern University — Vancouver](https://g.page/NortheasternVAN?share), 410 West Georgia Street #1400, Vancouver, BC V6B 1Z3, Canada.
+The workshop will be held in downtown Boston, just a [1 mile walk](https://maps.app.goo.gl/j8JTC4QTqYWaPtMJ8) from the Conference Hotel, at [Northeastern University](https://maps.app.goo.gl/tsvobBMr1gMYVfDr8).
 
 ### Code of Conduct
 

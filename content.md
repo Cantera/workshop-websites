@@ -4,50 +4,47 @@ title: Schedule and Topics
 
 ## Schedule
 
-The workshop will run 1 PM to 5 PM on Friday 22 July and 9 AM to 4 PM on Saturday 23 July 2022, with a break for lunch. The Friday afternoon session will cover topics for more advanced users. On Saturday, the morning session will introduce Cantera to newer users; after a lunch break, we will hold code sprints, followed by a poster session.
+**This tentative schedule is suject to change.**
 
-Attendees are welcome to come to the morning session, the afternoon session, or both.
+The workshop will run 9 AM to 6 PM on Sunday 16 March, with a meet-up the evening before for those arriving earlier on Saturday.
+The Sunday morning session will be an introduction and tutorial (bring a laptop to follow along and try things out).
+After lunch we invite lightning talks from attendees (show off what you have tried to do with Cantera, or what you would *like* to do with Cantera), and will have a session on how to contribute to Cantera.
+The afternoon will be a presentation of what's new in Cantera, including demonstrations of the latest features and capabilities.
 
-| Start Time (PDT) | End Time | Session      |
+
+| Start Time (EST) | End Time | Session      |
 |------------------|----------|--------------|
-| **Friday**                                 |
-| 13:00 | 14:45    | Advanced sessions       |
-| 14:45 | 15:15    | *Break*                 |
-| 15:15 | 17:00    | Advanced sessions       |
-|------------------|----------|--------------|
-| **Saturday**                               |
-|------------------|----------|--------------|
-| 9:00  | 10:15 | Introduction & Equilibrium |
-| 10:15 | 10:30 | Break                      |
-| 10:30 | 11:05 | Equilibrium Pt. 2          |
-| 11:05 | 11:15 | Break                      |
-| 11:15 | 11:50 | Equilibrium Pt. 3          |
-| 11:50 | 12:00 | Q&A: Equilibrium           |
-| 12:00 | 13:00 | *Lunch*                    |
-| 13:00 | 14:30 | Code sprints               |
-| 14:30 | 16:00 | Poster session             |
+| 9:00  | 12:00 | Introduction & Tutorials (including a break) |
+| 12:00 | 13:30 | *Lunch break (not provided)*           |
+| 13:30 | 14:30 | Lighting Talks (contributions welcome)  |
+| 14:30 | 15:00 | Contributing to Cantera                      |
+| 15:00 | 15:30 | *Break*       |
+| 15:30 | 18:00 | What's new in Cantera (including a break)  |
 
 ## Topics
 
-### Friday Afternoon Sessions
+### Tutorial Session (morning)
 
-There will be two advanced afternoon sessions on Friday, each with three parallel sessions. If you have suggestions for other topics, please include them on the registration form or contact the organizers.
+We expect to cover:
 
-Afternoon Session 1 (1 PM PDT):
+- Installing Cantera
+- Input files (conversion / debugging)
+- Thermo / equilibrium (adiabatic flame temperature)
+- Ignition Delay - ideal shock tube
+- Ignition Delay - rapid compression machine
+- Laminar Flame Speed
+- Sensitivity analysis
+- Flux diagrams
 
-- Using Cantera: ignition delays and flame speeds
-- Build your own reactor models
-- Getting started with contributing to Cantera
+### What's New Session (afternoon)
 
-Afternoon Session 2 (3:15 PM PDT):
+We expect to cover:
 
-- Using Cantera: perfectly stirred and plug flow reactors
-- Build your own electrochemistry model
-- Parallelized reactor simulations
-
-
-### Saturday Morning Session - Getting Started with Cantera (9 AM PDT)
-
-- Introduction
-- Cantera Input Files
-- Equilibrium Calculations (adiabatic flame temperatures)
+- Documentation enhancements: new examples gallery, and expanded documentation for developers
+- Extensible reaction rates.
+- Preconditioners for faster reactor integration
+- Real gas models in 1D simulations
+- Catalytic combustion with the new PFR
+- New mixing rules for collision effifiencies
+- Blowers-Masel for thermodynamic sensitivity
+- Reactor network visualizations

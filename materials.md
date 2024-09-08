@@ -2,7 +2,7 @@
 title: Workshop Materials
 ---
 
-The materials that will be covered in the workshop will be available in the form of Jupyter Notebooks on GitHub: <https://github.com/Cantera/symposium-2022-materials>
+The materials that will be covered in the workshop will be available in the form of Jupyter Notebooks on GitHub: (link to be provided).
 
 ## Installing Cantera
 
