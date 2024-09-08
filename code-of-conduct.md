@@ -10,7 +10,7 @@ The workshop organizers are dedicated to providing a harassment-free experience 
 
 To make clear what is expected, everyone taking part in the workshop and associated discussions—organizers and participants—is required to conform to the following Code of Conduct.
 
-All workshop participants are expected to follow this code throughout the event, and you may also contact the anyone on Code of Conduct subcommittee (Kyle Niemeyer and Richard West) directly by email; see contact information below. All communication will be treated as confidential.
+All workshop participants are expected to follow this code throughout the event, and you may also contact the anyone on Code of Conduct subcommittee (Ray Speth and Richard West) directly by email; see contact information below. All communication will be treated as confidential.
 
 To that end, we ask all attendees to adhere to the following guidance:
 
@@ -48,8 +48,8 @@ If an incident occurs, please use the following contact information:
 
 ### Code of Conduct (CoC) subcommittee:
 
- - Kyle Niemeyer: <kyle.niemeyer@oregonstate.edu>
  - Richard West: <R.West@northeastern.edu>
+ - Ray Speth: <speth@mit.edu>
 
 We expect participants to follow these rules at all workshop venues, workshop-related social events, community gatherings, and online communication channels.
 
