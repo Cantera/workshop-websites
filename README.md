@@ -18,7 +18,7 @@ permalink: /index
 * Create process simulations using networks of stirred reactors
 * Model non-ideal fluids
 
-This day-long workshop affiliated with the [14th U.S. National Combustion Meeting](https://www.combustioninstitute.org/ci-event/14th-united-states-national-combustion-meeting/) will bring together new and advanced users of Cantera, and introduce all to getting involved with Cantera development.
+This day-long workshop affiliated with the [14th U.S. National Combustion Meeting](https://members.combustioninstitute.org/Calendar/moreinfo.php?org_id=CMBI&eventid=140463) will bring together new and advanced users of Cantera, and introduce all to getting involved with Cantera development.
 
 The workshop will run all day on Sunday 16 March, with a meet-up the evening before for those arriving earlier on Saturday.
 The Sunday morning session will be an introduction and tutorial (bring a laptop to follow along and try things out).
@@ -31,7 +31,7 @@ See more detail on the [Schedule page](content.md).
 
 Everyone is welcome, and we especially encourage new users to attend! 
 
-Registration is made through the Combustion Institute when registering for the [14th U.S. National Combustion Meeting](https://www.combustioninstitute.org/ci-event/14th-united-states-national-combustion-meeting/).
+Registration is made through the Combustion Institute when registering for the [14th U.S. National Combustion Meeting](https://members.combustioninstitute.org/Calendar/moreinfo.php?org_id=CMBI&eventid=140463).
 Places are limited to 60 participants, so please register early to avoid disappointment.
 Early Registration Opens  October 9, 2024.
 
