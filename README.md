@@ -44,3 +44,4 @@ The workshop will be held in downtown Boston, just a [1 mile walk](https://maps.
 ### Code of Conduct
 
 All participants in the workshop are expected to ready and comply with our [Code of Conduct](code-of-conduct.md), both during the workshop and in any communications associated with it before, during, or after the event itself.
+
