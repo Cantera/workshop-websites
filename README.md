@@ -33,13 +33,17 @@ Everyone is welcome, and we especially encourage new users to attend!
 
 Registration is made through the Combustion Institute when registering for the [14th U.S. National Combustion Meeting](https://members.combustioninstitute.org/Calendar/moreinfo.php?org_id=CMBI&eventid=140463).
 Places are limited to 60 participants, so please register early to avoid disappointment.
-Early Registration Opens  October 9, 2024.
+Registration Opens  October 9, 2024. Discounted "Early" registration is until January 23, 2025. [Register Here](https://combustioninstitute.wixsite.com/14th-usncm/registration).
 
 Participants will be invited to present a lightning talk; though this is not required, we encourage everyone to present on the work they are doing that either already uses Cantera or might benefit from using Cantera. This will be a great way to network with other users and generate ideas.
 
 ### Venue
 
-The workshop will be held in downtown Boston, just a [1 mile walk](https://maps.app.goo.gl/j8JTC4QTqYWaPtMJ8) from the Conference Hotel, at [Northeastern University](https://maps.app.goo.gl/tsvobBMr1gMYVfDr8).
+The workshop will be held at [Northeastern University](https://maps.app.goo.gl/tsvobBMr1gMYVfDr8) in downtown Boston, just a [1 mile walk](https://maps.app.goo.gl/j8JTC4QTqYWaPtMJ8) from the Westin Copley Place [Conference Hotel](https://book.passkey.com/event/50805700/owner/251/home).
+
+### Accommodation
+
+Participants in the workshop are invited to use the conference's [discounted room rate](https://book.passkey.com/event/50805700/owner/251/home) of $285/night for all events related to the conference. It is valid from Saturday 15th March.
 
 ### Code of Conduct
 
