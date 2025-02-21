@@ -4,7 +4,7 @@ title: Schedule and Topics
 
 ## Schedule
 
-**This tentative schedule is suject to change.**
+**This tentative schedule is subject to change.**
 
 The workshop will run 9 AM to 6 PM on Sunday 16 March, with a meet-up the evening before for those arriving earlier on Saturday.
 The Sunday morning session will be an introduction and tutorial (bring a laptop to follow along and try things out).
