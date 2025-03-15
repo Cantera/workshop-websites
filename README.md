@@ -20,9 +20,9 @@ permalink: /index
 
 This day-long workshop affiliated with the [14th U.S. National Combustion Meeting](https://members.combustioninstitute.org/Calendar/moreinfo.php?org_id=CMBI&eventid=140463) will bring together new and advanced users of Cantera, and introduce all to getting involved with Cantera development.
 
-The workshop will run all day on Sunday 16 March, with a meet-up the evening before for those arriving earlier on Saturday.
+The workshop will run all day on Sunday 16 March, with a meet-up at Back Bay Social Club 7pm the evening before for those arriving earlier on Saturday.
 The Sunday morning session will be an introduction and tutorial (bring a laptop to follow along and try things out).
-After lunch we invite lightning talks from attendees (show off what you have tried to do with Cantera, or what you would *like* to do with Cantera), and will have a session on how to contribute to Cantera.
+Either side of lunch we invite lightning talks from attendees (show off what you have tried to do with Cantera, or what you would *like* to do with Cantera), and will have a session on how to contribute to Cantera.
 The afternoon will be a presentation of what's new in Cantera, including demonstrations of the latest features and capabilities.
 See more detail on the [Schedule page](content.md).
 
@@ -39,7 +39,7 @@ Participants will be invited to present a lightning talk; though this is not req
 
 ### Venue
 
-The workshop will be held at [Northeastern University](https://maps.app.goo.gl/tsvobBMr1gMYVfDr8) in downtown Boston, just a [1 mile walk](https://maps.app.goo.gl/j8JTC4QTqYWaPtMJ8) from the Westin Copley Place [Conference Hotel](https://book.passkey.com/event/50805700/owner/251/home).
+The workshop will be held in Shillman Hall at [Northeastern University](https://maps.app.goo.gl/WV1CugQver2HRZWD8) in downtown Boston, just a [1 mile walk](https://maps.app.goo.gl/8wTsF3BRpwEgaSYE9) from the Westin Copley Place [Conference Hotel](https://book.passkey.com/event/50805700/owner/251/home).
 
 ### Accommodation
 
