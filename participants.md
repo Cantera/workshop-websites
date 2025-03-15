@@ -7,7 +7,9 @@ The meeting will be hosted by
 
 * [Ray Speth](./bios#ray-speth) (MIT)
 * [Richard West](./bios#richard-west) (Northeastern)
-* More to be added...
+* Ingmar Schoegl
+* Kyle Niemeyer
+* Bang-Shiuh Chen 
 
 ## Attending
 
