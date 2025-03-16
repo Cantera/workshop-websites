@@ -50,7 +50,6 @@ Contact @rwest to contribute a talk.
 | Aneesh Kale        | University of Wisconsin-Madison                           | Reaction Sensitivity Analysis in Cantera |
 | Thomas Westenhofer  | University of California, Irvine                          | Plug Flow Reactor Simulation of Carbon Ablation in Nuclear Thermal Rockets |
 | Sevy Harris        | Northeastern University                                   | Estimation ignition delay uncertainty using sensitivity analysis |
-| Ning Ren          | FM                                                        | Flame extinction with high soot concentration (radiative quenching) |
 | Alp Tuztas        | Embry-Riddle Aeronautical University                        | Scramjet Hydrocarbon Fuel Modelling with Cantera |
 | Satyendra Rana    | University of Connecticut                                  | Modelling of metal combustion and heat transfer using Cantera/Python |
 | Abram Duran      | Virginia Polytechnic Institute and State University        | Using Cantera to Model a Reacting Solid Fuel Surface |
