@@ -44,7 +44,6 @@ Contact @rwest to contribute a talk.
 | Lakshmi Ganesh Shankar| State University of New York at Buffalo                   | Reactor Network Modeling of a Wood Stove – Effects of Thermal Inertia & Soot Production |
 | Michael Stuhr        | Argonne National Laboratory                               | Kinetic Simulations for the Reaction NCN + H behind Shock Waves |
 | Timo Pekkanen       | MIT                                                        | Effect of mixture rules in ammonia combustion. |
-| Joel Mathew        | Worcester Polytechnic Institute                           | A Continuation Method for the Freely Propagating Flame |
 | Subharaj Hossain    | University of Illinois, Chicago                          | Kinetic Modeling of Complex Fuel Oxidation |
 | Su Sun              | Northeastern University                                   | Cantera in MATLAB, Reimagined: A Faster, More Intuitive Experience |
 | Aneesh Kale        | University of Wisconsin-Madison                           | Reaction Sensitivity Analysis in Cantera |
@@ -53,10 +52,8 @@ Contact @rwest to contribute a talk.
 | Alp Tuztas        | Embry-Riddle Aeronautical University                        | Scramjet Hydrocarbon Fuel Modelling with Cantera |
 | Satyendra Rana    | University of Connecticut                                  | Modelling of metal combustion and heat transfer using Cantera/Python |
 | Prasad Pokkunuri | Ecole Centrale School of Engineering, Mahindra University | Modelling and optimizing solar thermochemical processes using Cantera |
-| Conner Godbold   | Georgia Institute of Technology                           | Multi-stage langragian modeling for soot formation in DFI sprays |
 | Jen Zen Ho       | Stanford University                                       | Custom QSS kinetics and getting them to work (5 years ago) |
 | Manuel Suarez    | Texas A&M University      | Optical Diagnostics and Imaging  |
-| Minsung Kang     | University of Southern California                         | - |
 
 
 ### Contributing to Cantera (afternoon)
