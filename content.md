@@ -52,7 +52,6 @@ Contact @rwest to contribute a talk.
 | Sevy Harris        | Northeastern University                                   | Estimation ignition delay uncertainty using sensitivity analysis |
 | Alp Tuztas        | Embry-Riddle Aeronautical University                        | Scramjet Hydrocarbon Fuel Modelling with Cantera |
 | Satyendra Rana    | University of Connecticut                                  | Modelling of metal combustion and heat transfer using Cantera/Python |
-| Abram Duran      | Virginia Polytechnic Institute and State University        | Using Cantera to Model a Reacting Solid Fuel Surface |
 | Prasad Pokkunuri | Ecole Centrale School of Engineering, Mahindra University | Modelling and optimizing solar thermochemical processes using Cantera |
 | Conner Godbold   | Georgia Institute of Technology                           | Multi-stage langragian modeling for soot formation in DFI sprays |
 | Jen Zen Ho       | Stanford University                                       | Custom QSS kinetics and getting them to work (5 years ago) |
