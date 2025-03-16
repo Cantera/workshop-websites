@@ -56,6 +56,7 @@ Contact @rwest to contribute a talk.
 | Prasad Pokkunuri | Ecole Centrale School of Engineering, Mahindra University | Modelling and optimizing solar thermochemical processes using Cantera |
 | Conner Godbold   | Georgia Institute of Technology                           | Multi-stage langragian modeling for soot formation in DFI sprays |
 | Jen Zen Ho       | Stanford University                                       | Custom QSS kinetics and getting them to work (5 years ago) |
+| Manuel Suarez    | Texas A&M University      | Optical Diagnostics and Imaging  |
 | Minsung Kang     | University of Southern California                         | - |
 
 
