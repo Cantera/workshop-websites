@@ -27,19 +27,48 @@ The afternoon will be a presentation of what's new in Cantera, including demonst
 ### Tutorial Session (morning)
 
 We expect to cover:
-
 - Installing Cantera
-- Input files (conversion / debugging)
 - Thermo / equilibrium (adiabatic flame temperature)
 - Ignition Delay - ideal shock tube
-- Ignition Delay - rapid compression machine
+- Well Stirred Reactor
 - Laminar Flame Speed
-- Sensitivity analysis
-- Flux diagrams
+- Input files (conversion / debugging)
+
+### Lightning Talks (before and after lunch)
+
+Contact @rwest to contribute a talk.
+
+|  Name              | Affiliation                                                | Title|
+|------------------------|------------------------------------------------------------|----------------------------------------|
+| Richard West          | Northeastern University                                   | Converging flame speed calculations   |
+| Lakshmi Ganesh Shankar| State University of New York at Buffalo                   | Reactor Network Modeling of a Wood Stove – Effects of Thermal Inertia & Soot Production |
+| Michael Stuhr        | Argonne National Laboratory                               | Kinetic Simulations for the Reaction NCN + H behind Shock Waves |
+| Subharaj Hossain    | University of Illinois, Chicago                          | Kinetic Modeling of Complex Fuel Oxidation |
+| Su Sun              | Northeastern University                                   | Cantera in MATLAB, Reimagined: A Faster, More Intuitive Experience |
+| Thomas Westenhofer  | University of California, Irvine                          | Plug Flow Reactor Simulation of Carbon Ablation in Nuclear Thermal Rockets |
+| Sevy Harris        | Northeastern University                                   | Estimation ignition delay uncertainty using sensitivity analysis |
+| Alp Tuztas        | Embry-Riddle Aeronautical University                        | Scramjet Hydrocarbon Fuel Modelling with Cantera |
+| Satyendra Rana    | University of Connecticut                                  | Modelling of metal combustion and heat transfer using Cantera/Python |
+| Abram Duran      | Virginia Polytechnic Institute and State University        | Using Cantera to Model a Reacting Solid Fuel Surface |
+| Prasad Pokkunuri | Ecole Centrale School of Engineering, Mahindra University | Modelling and optimizing solar thermochemical processes using Cantera |
+
+
+### Contributing to Cantera (afternoon)
+A panel session.
+We hope to discuss:
+- Users’ Group
+- GitHub
+   - Issue tracker
+   - Pull Requests
+   - Documentation
+   - Enhancements repo
+- Setting up your IDE
+
+
 
 ### What's New Session (afternoon)
 
-We expect to cover:
+We expect to cover most of:
 
 - Documentation enhancements: new examples gallery, and expanded documentation for developers
 - Extensible reaction rates.
@@ -47,5 +76,9 @@ We expect to cover:
 - Real gas models in 1D simulations
 - Catalytic combustion with the new PFR
 - New mixing rules for collision effifiencies
+- Plasma phases and reactions
 - Blowers-Masel for thermodynamic sensitivity
+- MATLAB interface
 - Reactor network visualizations
+
+
