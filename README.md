@@ -3,7 +3,7 @@ title: Cantera Workshop at 14th U.S. National Combustion Meeting 2025
 permalink: /index
 ---
 
-<center><p style="text-align:center;" align="center"><img src="https://www.cantera.org/assets/img/cantera-logo.png" width="300px" alt="Cantera logo"/></p></center>
+<center><p style="text-align:center;" align="center"><img src="https://www.cantera.org/_static/cantera-logo.png" width="300px" alt="Cantera logo"/></p></center>
 
 ## Sunday 16 March 2025
 
